@@ -1,0 +1,21 @@
+{
+  "name": "ShivTrix Core Tech OS",
+  "short_name": "ShivTrix",
+  "description": "All-in-one Tech OS, hardware telemetry dashboard, developer lab, IT toolkit, and built-in music player engine.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060913",
+  "theme_color": "#00f0ff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='192' height='192' viewBox='0 0 24 24' fill='none' stroke='%2300f0ff' stroke-width='2'><polygon points='12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2' fill='rgba(0,240,255,0.2)'/><circle cx='12' cy='12' r='3' fill='%2300f0ff'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='512' height='512' viewBox='0 0 24 24' fill='none' stroke='%2300f0ff' stroke-width='2'><polygon points='12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2' fill='rgba(0,240,255,0.2)'/><circle cx='12' cy='12' r='3' fill='%2300f0ff'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
